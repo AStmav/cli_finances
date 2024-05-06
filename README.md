@@ -17,7 +17,7 @@ cd cli_finances
 ```
 
 
-3. Установить зависсимости:
+3. Установить зависимости:
 ```bash
 pip install -r requirements.txt
 ```
